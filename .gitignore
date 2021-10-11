@@ -104,3 +104,10 @@ venv.bak/
 .mypy_cache/
 .ipynb_checkpoints/
 .DS_Store
+Meta/
+Test/
+Train/ 
+Meta.csv 
+Test.csv 
+Train.csv 
+training_data/
